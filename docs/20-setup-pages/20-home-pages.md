@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Homepage Setup
 
-**Skinelle** includes **5 beautifully designed homepage layouts**, each crafted as a **block pattern**.
+**Skinelle** includes **2 beautifully designed homepage layouts**, each crafted as a **block pattern**.
 This setup allows you to create your homepage quickly and effortlessly — simply select the pattern you love, and it will load the complete homepage layout instantly. Each layout has been carefully designed to suit different styles of skincare and beauty stores, giving your website a refined and professional look.
 
 Since all homepages are built as **patterns**, you can assign them to a page with just a few clicks — no need to assemble sections manually.
