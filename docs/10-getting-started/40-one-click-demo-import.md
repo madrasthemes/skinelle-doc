@@ -23,7 +23,7 @@ This process will set up your website just like the demo version, saving you tim
 4. **Wait for Completion**
    Sit back and relax — the import process may take a few minutes depending on your server speed. Once it’s done, you’ll see a confirmation message indicating that the demo content has been successfully imported.
 
-![One Click Import](/img/continue-process.webp)
-![Import Complete](/img/complete-process.webp)
+<!--![One Click Import](/img/continue-process.webp)
+![Import Complete](/img/complete-process.webp)-->
 
 After the import is complete, your site will look like the **Skinelle demo**, and you can start customizing it with your own products, brand colors, and images.

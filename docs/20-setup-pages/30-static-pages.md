@@ -14,7 +14,7 @@ Once you’ve created your **Home** and **Blog** pages, it’s time to set them 
 * For **Posts page**, select the **Blog** page.
 * Click **Save Changes** to apply the settings.
 
-![Setup Static Pages](/img/setup-static-pages.webp)
+<!--![Setup Static Pages](/img/setup-static-pages.webp)-->
 
 Your website is now configured with:
 
@@ -37,7 +37,7 @@ The **About Page** helps you express your brand’s identity — who you are, wh
 * Fully editable through the **Block Editor** — add lifestyle photos, videos, or design elements that reflect your aesthetic.
 * Styled with balanced spacing, elegant typography, and a warm layout perfect for beauty and skincare brands.
 
-![About Template](/img/about-temp.webp)
+<!--![About Template](/img/about-temp.webp)-->
 
 💡 *Tip:* Use this page to highlight your passion for skincare, your ingredient philosophy, or your brand’s sustainability values.
 
@@ -49,7 +49,7 @@ The **Contact Page** allows your customers to reach out effortlessly for product
 * Seamlessly works with popular plugins like **Contact Form 7**, **WPForms**, and **Jetpack Forms**.
 * Each section is modular — you can easily add or remove blocks to match your preferences.
 
-![Contact Template](/img/contact-temp.webp)
+<!--![Contact Template](/img/contact-temp.webp)-->
 
 💡 *Tip:* Add your WhatsApp link or chat widget for quicker customer interaction.
 
@@ -61,7 +61,7 @@ Your **Blog Page** is the voice of your brand — the place to share **skincare 
 * Includes **single post templates** styled for readability and consistency.
 * Supports **tags, author bios, and comments** to boost engagement and SEO.
 
-![Blog Template](/img/blog-temp.webp)
+<!--![Blog Template](/img/blog-temp.webp)-->
 
 💡 *Tip:* Post regularly to build trust and educate your customers about skincare practices and your product benefits.
 
@@ -73,6 +73,6 @@ The **404 Page** ensures even lost visitors experience your brand’s signature 
 * Fully customizable — update the content or imagery to fit your tone.
 * Keeps your brand aesthetics consistent even on error pages.
 
-![404 Template](/img/404-temp.webp)
+<!--![404 Template](/img/404-temp.webp)-->
 
 💡 *Tip:* Add a “Back to Home” button or product recommendations to guide users back to shopping.

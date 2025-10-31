@@ -36,7 +36,7 @@ Once you’ve downloaded the **skinelle.zip** file, you’re ready to install th
 5. Click **Install Now** to start the installation.
 6. Once complete, you’ll see a message confirming that the theme was installed successfully.
 
-![Theme Upload](/img/theme-upload.webp)
+<!--![Theme Upload](/img/theme-upload.webp)-->
 
 
 ### Installing the Theme via FTP
@@ -60,7 +60,7 @@ While **Skinelle** can technically function without WooCommerce, it is **highly 
 3. Find the **WooCommerce** plugin in the results and click **Install Now**.
 4. Once installation is complete, click **Activate** to enable the plugin.
 
-![Install WooCommerce](/img/install-woocommerce.webp)
+<!--![Install WooCommerce](/img/install-woocommerce.webp)-->
 
 
 ## Activating the Theme
@@ -75,4 +75,4 @@ Before activating **Skinelle**, we recommend that you **install and activate Woo
 4. Hover over the Skinelle theme preview and click **Activate**.
 5. A confirmation message will appear, indicating that **Skinelle** is now the active theme on your website.
 
-![Theme Activation](/img/theme-activation.webp)docs)?
+<!--![Theme Activation](/img/theme-activation.webp)docs)?-->

@@ -12,7 +12,7 @@ The **Single Product Page** is where each beauty product shines in full detail, 
 * Open the template to design or adjust your product detail layout.  
 * Use the **block editor** to add, remove, or rearrange elements for a personalized look.  
 
-![Product Page Layout](/img/single-product.webp)
+<!--![Product Page Layout](/img/single-product.webp)-->
 
 ## Key Sections of the Single Product Page
 

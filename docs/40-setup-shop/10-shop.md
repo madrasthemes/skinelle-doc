@@ -35,7 +35,7 @@ This ensures WooCommerce recognizes your newly created page as the main product 
     * Adjust sorting and filtering options for smoother browsing.  
 * Click **Save** once your layout is ready.  
 
-![Product Catalog](/img/product-catalog.webp)
+<!--![Product Catalog](/img/product-catalog.webp)-->
 
 
 ## Features of the Shop Page

@@ -23,7 +23,7 @@ To display your **brand logo**, Skinelle uses the standard **Site Logo** or **Im
 * Adjust the logo size using the **Image Width** option in the sidebar.  
 * Click **Save** to apply your changes.  
 
-![Logo Setup](/img/logo-setting.webp)
+<!--![Logo Setup](/img/logo-setting.webp)-->
 
 💡 *Tip:* Use a **transparent PNG** or **SVG logo** for a clean and premium look across all screen sizes.
 
@@ -43,7 +43,7 @@ The **header** is where your brand’s first impression begins — featuring you
   * **Account / Login Icon**
 * You can also choose a **Header pattern** to instantly apply a pre-styled layout matching Skinelle’s modern look.
 
-![Header Setup](/img/header-part.webp)
+<!--![Header Setup](/img/header-part.webp)-->
 
 💡 *Tip:* Each homepage variation includes a matching header style — but feel free to mix and match for a unique design.
 
@@ -60,7 +60,7 @@ Your color palette defines the mood of your store. Skinelle allows you to custom
 * To add a new custom color, click **+ (Add)** and pick a tone that suits your brand.  
 * Click **Save** when done.  
 
-![Color Setup](/img/color-setup.webp)
+<!--![Color Setup](/img/color-setup.webp)-->
 
 💡 *Tip:* Choose soft, elegant tones (like blush, rose, or cream) to reflect beauty and calmness — while maintaining text readability.
 
@@ -81,7 +81,7 @@ Typography brings personality to your brand. Skinelle lets you refine fonts to m
 * Under **Font size presets**, adjust or define sizes for *Small, Medium,* and *Large* text.  
 * Click **Save** when your customizations are complete.  
 
-![Font Setup](/img/font-setup.webp)
+<!--![Font Setup](/img/font-setup.webp)-->
 
 💡 *Tip:* Stick to **two complementary fonts** — one elegant serif or modern sans-serif for headings, and one clean font for body text.
 
@@ -100,6 +100,6 @@ The **footer** provides a balanced closing to every page, perfect for adding imp
   * **Copyright Text**
 * You can also apply a **Footer pattern** to instantly load a pre-designed layout.
 
-![Footer Setup](/img/footer-temp.webp)
+<!--![Footer Setup](/img/footer-temp.webp)-->
 
 💡 *Tip:* Keep your footer light and minimal — include only essential links and contact details for a refined, user-friendly look.

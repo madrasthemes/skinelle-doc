@@ -12,7 +12,7 @@ Demo content is a great way to get started quickly and see how your website will
 We recommend importing demo products and blog posts **only if your website is brand new** or doesn’t yet have any content.
 If you already have your own products or blog posts, you can simply use the available **page patterns** to create and design the pages you need.
 
-![Starter Patterns](/img/starter-patterns.webp)
+<!--![Starter Patterns](/img/starter-patterns.webp)-->
 
 
 ## Demo Shop Products

@@ -31,6 +31,6 @@ In **Skinelle**, the header is built entirely using **WordPress blocks**, allowi
 * Apply a **Header pattern** to instantly load a beautifully designed layout that matches your Skinelle homepage.  
 * Preview and save your changes to ensure the design remains consistent across all pages.  
 
-![Header Part](/img/header-part.webp)
+<!--![Header Part](/img/header-part.webp)-->
 
 💡 *Tip:* Each Skinelle homepage includes a **matching header style** that complements its layout. You can either keep it consistent across the site or swap different headers to create a unique brand identity.

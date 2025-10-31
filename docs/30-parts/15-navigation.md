@@ -14,7 +14,7 @@ In **Skinelle**, navigation is built entirely with **WordPress blocks**, giving 
 * You’ll see a list of all existing navigation menus used across your site.  
 * Select an existing menu to edit, or click **Add New** to create a fresh navigation menu for your store.  
 
-![Navigation Menu](/img/navigation-menu.webp)
+<!--![Navigation Menu](/img/navigation-menu.webp)-->
 
 
 ## Editing the Menu
@@ -24,7 +24,7 @@ In **Skinelle**, navigation is built entirely with **WordPress blocks**, giving 
 * Drag and drop menu items to **reorder** them.  
 * To create **submenus**, simply nest items beneath a parent link — perfect for organizing skincare routines, beauty tips, or product types.  
 
-![Edit Navigation Menu](/img/edit-nav.webp)
+<!--![Edit Navigation Menu](/img/edit-nav.webp)-->
 
 
 ## Assigning the Menu

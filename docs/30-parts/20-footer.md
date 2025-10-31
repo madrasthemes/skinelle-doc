@@ -35,7 +35,7 @@ You can also choose from **pre-designed Footer patterns** to instantly apply a l
 * **Skinelle** includes **several footer layouts**, thoughtfully crafted to suit different homepage designs.  
 * To switch styles, simply select another **Footer pattern** from the **Template Parts** section in the Site Editor.  
 
-![Footer Block](/img/footer-temp.webp)
+<!--![Footer Block](/img/footer-temp.webp)-->
 
 
 💡 *Tip:* Keep your footer clean and consistent across all pages. A well-organized footer enhances your brand’s professionalism and helps visitors easily find the information they need.

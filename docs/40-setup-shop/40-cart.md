@@ -12,7 +12,7 @@ The **Cart Page** is where your customers review their selected beauty essential
 * You can customize it using the **block editor** — for example, by adding promotional content, discount banners, or trust icons above or below the cart table.  
 * To modify the overall cart design, navigate to **Appearance → Editor → Templates → Cart**.  
 
-![Cart Template](/img/cart.webp)
+<!--![Cart Template](/img/cart.webp)-->
 
 ## Key Features of the Cart Page
 

@@ -19,7 +19,7 @@ The **Products** section showcases your stunning beauty and skincare items in an
 * Assign relevant **Categories** and **Tags** such as “Moisturizers,” “Serums,” or “Vegan Skincare.”  
 * Click **Publish** to make your product live on your store.
 
-![Product Data](/img/edit-product.webp)
+<!--![Product Data](/img/edit-product.webp)-->
 
 ## Customizing the Product Page
 
@@ -34,7 +34,7 @@ The **Products** section showcases your stunning beauty and skincare items in an
     * **Related Products** or **Customer Favorites**  
 * Rearrange, remove, or add new sections to design a layout that reflects your brand’s luxurious style.  
 
-![Single Product Layout](/img/single-product.webp)
+<!--![Single Product Layout](/img/single-product.webp)-->
 
 ## Product Display Features
 

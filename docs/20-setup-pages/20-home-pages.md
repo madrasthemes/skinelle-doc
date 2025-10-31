@@ -11,7 +11,7 @@ This setup allows you to create your homepage quickly and effortlessly — simpl
 
 Since all homepages are built as **patterns**, you can assign them to a page with just a few clicks — no need to assemble sections manually.
 
-![HomePage Patterns](/img/homepage-patterns.webp)
+<!--![HomePage Patterns](/img/homepage-patterns.webp)-->
 
 
 ### Creating and Assigning Your Homepage
@@ -37,9 +37,9 @@ Follow these simple steps to create and assign your homepage:
 * Click **Change Template**, then select one of the following:
 
   * **Canvas Template** – Use this if you want to manually insert a separate header and footer for this page.
-    ![Canvas Template](/img/choosing-canvas-temp.webp)
+    <!--![Canvas Template](/img/choosing-canvas-temp.webp)-->
   * **Page No Title Template** – Use this to apply the **global header and footer** across your entire site.
-    ![Page No Title Template](/img/page-no-title-template.webp)
+    <!--![Page No Title Template](/img/page-no-title-template.webp)-->
 * Click **Preview** to see how your homepage looks with the chosen template.
 
 
@@ -53,7 +53,7 @@ Each complete homepage layout is available as a **single pattern**, so you can l
 * Navigate to **Patterns → Skinelle**.
 * Choose your preferred **Home pattern** (e.g., *Home v1, Home v2, Home v3, Home v4,* or *Home v5*).
 
-![Add patterns](/img/add-homev1-pattern.webp)
+<!--![Add patterns](/img/add-homev1-pattern.webp)-->
 
 
 ### About the Header
@@ -67,7 +67,7 @@ Each homepage pattern comes with its own **header style**, carefully designed to
 
 This flexibility lets you create a stylish and functional header that perfectly aligns with your skincare brand’s look and feel.
 
-![Header patterns](/img/header-patterns.webp)
+<!--![Header patterns](/img/header-patterns.webp)-->
 
 
 ### Creating a Blog Page
@@ -81,4 +81,4 @@ To set up a dedicated page for your blog posts:
 
 💡 *Tip:* Keeping your blog separate from the homepage allows you to share skincare tips, beauty routines, and product guides in an organized, reader-friendly way.
 
-![Blog Page](/img/blog-page.webp)
+<!--![Blog Page](/img/blog-page.webp)-->

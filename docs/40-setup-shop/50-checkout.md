@@ -12,7 +12,7 @@ The **Checkout Page** is the final and most important step in your customer’s 
 * You can use the **block editor** to add personalized touches such as banners, trust badges, or special offers above or below the checkout form.  
 * To edit the layout globally, navigate to **Appearance → Editor → Templates → Checkout**.  
 
-![Checkout Template](/img/checkout.webp)
+<!--![Checkout Template](/img/checkout.webp)-->
 
 ## Key Features of the Checkout Page
 
